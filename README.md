@@ -9,7 +9,7 @@
 
 ## UML Diagram Design - Exercise #1
 
-[UML Diagram](Exercise%#1%-%UML%Diagram.pdf)
+[UML Diagram](Exercise #1 - UML Diagram.pdf)
 
 ## Test Results Screen Dump - Excerise #2 
 ### **[Java Test Code - Exercise #2](/Test)** 
