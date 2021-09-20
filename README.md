@@ -1,8 +1,7 @@
-# Assignment1-SOFE3650U-Group19
-### SOFE3650U - Assignment #1 - Course Group 19
+# SOFE3650U - Assignment #1 - Course Group 19
 
 ## Contributors
-* Mason Koitsan
+* Mason Koitsan 
 * Jathavan Anton-Geetharaj
 * Dillon Dudley
 * Sanjigth Gnanabaskaran
