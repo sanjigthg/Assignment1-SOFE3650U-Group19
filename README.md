@@ -9,7 +9,7 @@
 
 ## UML Diagram Design - Exercise #1
 
-[UML Diagram](Exercise #1 - UML Diagram.pdf)
+[UML Diagram](https://github.com/sanjigth/Assignment1-SOFE3650U-Group19/blob/7258ca750943ff43fe4a8aa9f6a0a45e35cb9d26/Exercise%20%231%20-%20UML%20Diagram.pdf)
 
 ## Test Results Screen Dump - Excerise #2 
 ### **[Java Test Code - Exercise #2](/Test)** 
