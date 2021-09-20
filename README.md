@@ -1,11 +1,11 @@
 # Assignment1-SOFE3650U-Group19
 ## SOFE3650U - Assignment #1 - Course Group 19
 
-## Contributors
+### Contributors
 * Mason Koitsan
 * Jathavan Anton-Geetharaj
 * Dillon Dudley
-* Sanjitgth Gnanabaskaran
+* Sanjigth Gnanabaskaran
 
 ## UML Diagram Design - Exercise #1
 
