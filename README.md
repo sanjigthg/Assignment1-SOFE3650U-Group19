@@ -9,7 +9,7 @@
 
 ## UML Diagram Design - Exercise #1
 
-![image](/Exercise_#1_-_UML_Diagram.pdf)
+![image](/Exercise%#1%-%UML%Diagram.pdf)
 
 ## Test Results Screen Dump - Excerise #2 
 ![image](https://user-images.githubusercontent.com/81596630/133952873-4d4bedb5-4db5-4879-bc1e-4d6e3efc5d5b.png)
